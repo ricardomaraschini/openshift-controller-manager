@@ -1,10 +1,12 @@
 reviewers:
+  - control-plane-approvers
   - csrwng
   - sayan-biswas
   - sanchezl
   - prabhapa
   - moebasim
 approvers:
+  - control-plane-approvers
   - adambkaplan
   - sayan-biswas
   - sanchezl
